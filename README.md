@@ -1,7 +1,7 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=220&section=header&text=AetherStream%20Analytics%20Engineering&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/Venom-Shivu/AetherStream-Analytics-Engineering/main/assets/aetherstream-banner.png" width="100%" />
 </p>
+
 
 <h3 align="center">From Raw Data to Executive Intelligence</h3>
 
