@@ -51,11 +51,11 @@ It is a **practice-driven analytics engineering environment** intended to develo
 
 ### 📙 Master Technical Guide (Notes)
 
-```
 
-AetherStream_Analytics_Engineering_Master_Guide_Shivansh_Yadav.pdf
 
-```
+#### AetherStream_Analytics_Engineering_Master_Guide_Shivansh_Yadav.pdf
+
+
 
 Complete technical handbook covering:
 
@@ -69,11 +69,11 @@ Complete technical handbook covering:
 
 ### 📕 Practice Assignment Set
 
-```
 
-Shivansh_Yadav_AetherStream_Analytics_Engineering.pdf
 
-```
+#### Shivansh_Yadav_AetherStream_Analytics_Engineering.pdf
+
+
 
 Enterprise-style problem scenarios including:
 
@@ -171,12 +171,10 @@ This material is provided solely for **educational and professional development 
 
 Any attempt to republish or monetize this work without consent will be treated as a violation of intellectual property rights.
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=120&section=footer"/>
 </p>
 
----
+
 
 
