@@ -24,7 +24,6 @@ Predictive Analytics
 ↓
 Executive Dashboards
 
-```
 
 Each layer has a single responsibility.
 
